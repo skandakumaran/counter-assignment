@@ -3,6 +3,7 @@
 
 beforeEach(() => {
   // Render the Counter component here
+  //hi
 })
 
 test('renders counter message', () => {
